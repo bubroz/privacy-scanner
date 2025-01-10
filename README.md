@@ -10,7 +10,7 @@ A Python-based tool that helps users identify which of their installed Android a
   - Android ID
   - Bluetooth MAC address
   - Serial number
-- Generates detailed privacy reports in both HTML and JSON formats
+- Generates privacy reports in both HTML and JSON formats
 - Analyzes app permissions and installation details
 - Provides risk scoring based on data collection frequency:
   - High Risk (> 75 occurrences)
