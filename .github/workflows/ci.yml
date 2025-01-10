@@ -36,9 +36,4 @@ jobs:
         
     - name: Run tests with coverage
       run: |
-        pytest --cov=privacy_scanner tests/
-        
-    - name: Upload coverage reports
-      uses: codecov/codecov-action@v3
-      env:
-        CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }} 
+        pytest --cov=privacy_scanner privacy_scanner/tests/ 

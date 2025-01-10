@@ -32,6 +32,7 @@ ENV/
 .vscode/
 *.swp
 *.swo
+.cursorignore
 
 # Project specific
 privacy_scanner/reports/
