@@ -1,6 +1,6 @@
 # Privacy Scanner
 
-A Python-based tool that helps users identify which of their installed Android applications are potentially selling their data, based on the Gravy Analytics leaked dataset. The tool scans installed apps and provides risk assessments based on data collection frequency.
+A Python-based tool that helps users identify which of their installed Android applications are potentially selling their data, based on the Gravy Analytics leaked dataset. The tool scans installed apps and provides a basic risk assessment based on SDKs installed on your device.
 
 ## Features
 
