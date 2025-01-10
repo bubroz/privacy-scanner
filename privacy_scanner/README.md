@@ -6,9 +6,8 @@ A Python-based tool that helps users identify which of their installed Android a
 
 - Scans installed Android apps and cross-references with Gravy Analytics dataset
 - Collects comprehensive device information including:
-  - Hardware identifiers (Serial, IMEI, WiFi/Bluetooth MAC)
-  - Network identifiers (IP addresses, Android ID, Ad ID)
-  - Subscriber identifiers (IMSI, phone numbers)
+  - Hardware identifiers (Bluetooth MAC address)
+  - Network identifiers (IP addresses, Android ID)
 - Generates detailed privacy reports in both HTML and JSON formats
 - Analyzes app permissions and data access
 - Provides risk scoring based on data collection frequency
